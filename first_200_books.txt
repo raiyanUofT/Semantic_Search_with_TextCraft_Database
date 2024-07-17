@@ -1,0 +1,165 @@
+Sooner Safer Happier
+Supercritical Fluids and Organometallic Compounds
+Broadcast News Writing, Reporting, and Producing, 4th Edition
+Securing the Virtual Environment: How to Defend the Enterprise Against Attack, Included DVD
+ABCs of z/OS System Programming: Volume 5
+Implementing IBM FlashSystem 9200, 9100, 7200, and 5100 Systems with IBM Spectrum Virtualize V8.3.1
+Service Availability: Principles and Practice
+IBM z14 Technical Introduction
+SAN and Fabric Resiliency Best Practices for IBM b-type Products
+Draw Chibi Style
+Mid-Career Library and Information Professionals
+Beginning Adobe® AIR™: Building Applications for the Adobe Integrated Runtime
+Securing Your Critical Workloads with IBM Hyper Protect Services
+Think Before You Engage: 100 Questions to Ask Before Starting a Social Media Marketing Campaign
+Getting Started with KVM for IBM z Systems
+WebSphere Application Server V8.5 Administration and Configuration Guide for Liberty Profile
+Leadership and SEN
+Appreneur: Secrets to Success in the App Store
+Bioinformatics and Biomarker Discovery: "Omic" Data Analysis for Personalized Medicine
+Transportation Management with SAP TM 9.0
+Mezzanine Financing: Tools, Applications and Total Performance
+Letting Go of the Words
+Web Search Garage
+Animated Realism
+Software Development in Practice
+Planned Change
+JES3 to JES2 Migration Considerations
+Responsive Mobile User Experience Using MQTT and IBM MessageSight
+Cyber Resiliency Solution using IBM Spectrum Virtualize
+Color Management for Photographers
+Acting for the Stage
+Learning Go, 2nd Edition
+Hands-On Differential Privacy
+Code Reading in Practice
+Linkerd: Up and Running
+Fluent React
+Making Embedded Systems, 2nd Edition
+Laws of UX, 2nd Edition
+Predictive Analytics for the Modern Enterprise
+Effective Machine Learning Teams
+Software Engineering for Data Scientists
+Web Scraping with Python, 3rd Edition
+Architecting IoT Solutions on Azure
+UX for Business
+Mastering Bitcoin, 3rd Edition
+Defensive Security Handbook, 2nd Edition
+Learning Snowflake SQL and Scripting
+Architecting Data and Machine Learning Platforms
+Inside Cyber Warfare, 3rd Edition
+A Project Guide to UX: For User Experience Designers in the Field or in the Making, 3rd Edition
+Practical Cloud Security, 2nd Edition
+Delta Lake: Up and Running
+Practical Salesforce Architecture
+CCNP and CCIE Enterprise Core ENCOR 350-401 Official Cert Guide, 2nd Edition
+Learning Data Science
+Learning Java, 6th Edition
+Fundamentals of Data Observability
+Data Curious
+Cost-Effective Data Pipelines
+Apache Iceberg: The Definitive Guide
+Data Science: The Hard Parts
+Java Generics and Collections, 2nd Edition
+Software Supply Chain Security
+Training Data for Machine Learning
+Learning Microsoft Power Automate
+Learning Microsoft Azure
+The Software Developer's Career Handbook
+Patterns of Distributed Systems
+From Data To Profit
+Coaching & Mentoring For Dummies, 2nd Edition
+Video Storytelling Projects: A DIY Guide to Shooting, Editing and Producing Amazing Video Stories on the Go
+Enabling Microservice Success
+Building Serverless Applications on Knative
+Serverless Development on AWS
+Developing Apps with GPT-4 and ChatGPT
+Functional Programming with C#
+Go Cookbook
+Learning OpenTelemetry
+Learning and Operating Presto
+CompTIA Project+ PK0-005 Cert Guide, 2nd Edition
+Laravel: Up & Running, 3rd Edition
+Building a Career in Cybersecurity: The Strategy and Skills You Need to Succeed
+Compassionate Accountability
+The Art Playroom
+Amazon Redshift: The Definitive Guide
+Learning Airtable
+Zero Trust Networks, 2nd Edition
+Applied Embedded Electronics
+Learning Modern C++ for Finance
+FastAPI
+The Art of SEO, 4th Edition
+Probabilistic Machine Learning for Finance and Investing
+Machine Learning with Python Cookbook, 2nd Edition
+Learn Enough Python to Be Dangerous: Software Development, Flask Web Apps, and Beginning Data Science with Python
+Security in Computing, 6th Edition
+SPSS Statistics Workbook For Dummies
+Automating Data Quality Monitoring at Scale
+Identity-Native Infrastructure Access Management
+Aligned
+Functional Design: Principles, Patterns, and Practices
+Dask: The Definitive Guide
+Tidy First?
+Head First Python, 3rd Edition
+Cloud Computing: Concepts, Technology, Security, and Architecture, 2nd Edition
+Football Analytics with Python & R
+INCOSE Systems Engineering Handbook, 5th Edition
+CompTIA CySA+ Study Guide, 3rd Edition
+Bioinspired and Green Synthesis of Nanostructures
+Dive Into Data Science
+Building Recommendation Systems in Python and JAX
+Analytics Engineering with SQL and DBT
+Terraform Cookbook
+Communication Patterns
+Kafka Connect
+Building Real-Time Analytics Systems
+Low-Code AI
+Kubernetes Best Practices, 2nd Edition
+IT Essentials Companion Guide v8
+Driving Value with Sprint Goals: Humble Plans, Exceptional Results
+Learning GitHub Actions
+Network Programmability and Automation, 2nd Edition
+The AI Dilemma
+Smart Teams, 2nd Edition
+IBM Storage Virtualize, IBM Storage FlashSystem, and IBM SAN Volume Controller Security Feature Checklist
+Visual Analytics Fundamentals: Creating Compelling Data Narratives with Tableau
+CC Certified in Cybersecurity All-in-One Exam Guide
+IBM Z Functional Matrix
+Programming Cloud Native Applications with Google Cloud
+Building a Cyber Risk Management Program
+Learning Vue
+Machine Learning Interviews
+Clean Code Cookbook
+Microsoft Teams Administration Cookbook
+Alteryx Designer: The Definitive Guide
+Implementing MLOps in the Enterprise
+Fuzzy Data Matching with SQL
+TypeScript Cookbook
+Pretend Play Workshop for Kids
+Process Control: Modeling, Design, and Simulation, 2nd Edition
+The LEGO Lighting Book
+Zero Trust Architecture
+Metaprogramming in C#
+Time Series Indexing
+Becoming a Dynamics 365 Finance and Supply Chain Solution Architect
+Exploratory Data Analysis with Python Cookbook
+Enhancing Deep Learning with Bayesian Inference
+Kubernetes Cookbook, 2nd Edition
+Head First Software Architecture
+Hacker Culture A to Z
+Quick Start Guide to Large Language Models: Strategies and Best Practices for using ChatGPT and Other LLMs
+Exam Ref MD-102 Microsoft Endpoint Administrator
+50 Algorithms Every Programmer Should Know - Second Edition
+Creative Wanderlust
+Unity Development Cookbook, 2nd Edition
+The Art and Science of UX Design: A step-by-step guide to designing amazing user experiences
+Art for Self-Care
+Modern Distributed Tracing in .NET
+Becoming a Salesforce Certified Technical Architect - Second Edition
+Delphi High Performance - Second Edition
+Graph Data Modeling in Python
+The Async-First Playbook: Remote Collaboration Techniques for Agile Software Teams
+Automating and Orchestrating Networks with NetDevOps
+Scaling Python with Dask
+Graph-Powered Analytics and Machine Learning with TigerGraph
+Causal Inference in Python
