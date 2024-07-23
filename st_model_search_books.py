@@ -6,7 +6,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 # Initialize MongoDB client
 mongo_uri = "mongodb://192.168.4.106:27017/"
 mongo_client = MongoClient(mongo_uri)
-db = mongo_client['oreilly']
+db = mongo_client['oreilly_subset']
 collection = db['book']
 
 # Initialize SentenceTransformer model
@@ -30,7 +30,7 @@ def search_books(query_vector, vectors, book_names, top_n=10):
     return [book_names[i] for i in top_indices]
 
 if __name__ == "__main__":
-    query = "Kitchen"
+    query = "User Design"
     query_vector = text_to_vector(query)
     vectors, book_names = load_vectors_from_mongodb()
     top_books = search_books(query_vector, vectors, book_names, top_n=10)

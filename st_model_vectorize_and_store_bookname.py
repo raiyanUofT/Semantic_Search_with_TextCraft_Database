@@ -5,7 +5,7 @@ import numpy as np
 # Initialize MongoDB client
 mongo_uri = "mongodb://192.168.4.106:27017/"
 mongo_client = MongoClient(mongo_uri)
-db = mongo_client['oreilly']
+db = mongo_client['oreilly_subset']
 collection = db['book']
 
 # Initialize SentenceTransformer model
